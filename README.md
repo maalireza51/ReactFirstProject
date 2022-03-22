@@ -11,4 +11,8 @@
   you can add it more creative features by your own styles...
 </p>
 </br></br>
+<p>Follow me on</p>
+<a href="">LinkedIn</a>
+<a href="">Twitter</a>
+<a href="">Instagram</a>
 <strong>GOOD LUCK</strong>
