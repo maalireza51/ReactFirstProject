@@ -6,6 +6,7 @@
   reactjs official website <a href="https://reactjs.org/docs/cdn-links.html">(This Link)</a>
 </p>
 <p>
+  I animate the div tags by using animation property at the css file.</br>
   The animations have the ability to show everything alive and</br>
   you can add it more creative features by your own styles...
 </p>
