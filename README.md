@@ -12,7 +12,7 @@
 </p>
 </br></br>
 <p>Follow me on</p>
-<a href="">LinkedIn</a>
-<a href="">Twitter</a>
-<a href="">Instagram</a>
+<a href="">LinkedIn</a></br>
+<a href="">Twitter</a></br>
+<a href="">Instagram</a></br>
 <strong>GOOD LUCK</strong>
