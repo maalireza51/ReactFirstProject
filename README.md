@@ -13,7 +13,7 @@
 </br></br>
 <p>Follow me on</p>
 <a href="https://www.linkedin.com/in/alireza-mashayekhi-693423235/">
-<img align=”left” src=”https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/>
+<img align=”left” src=”https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/linkedin.svg" alt=Alireza|LinkedIn” width=”21px”/>
 </a>
 <a href="https://twitter.com/maalireza51"><i class="fa fa-lg fa-twitter-square"></i></a>
 <a href="https://www.instagram.com/deka_deve/"><i class="fa fa-lg fa-instagram"></i></a>
