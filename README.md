@@ -12,7 +12,8 @@
 </p>
 </br></br>
 <p>Follow me on</p>
-<a href="">LinkedIn</a></br>
-<a href="">Twitter</a></br>
-<a href="">Instagram</a></br>
+<a href="https://www.linkedin.com/in/alireza-mashayekhi-693423235/"><i class="fa fa-lg fa-linkedin-square"></i></a>
+<a href="https://twitter.com/maalireza51"><i class="fa fa-lg fa-twitter-square"></i></a>
+<a href="https://www.instagram.com/deka_deve/"><i class="fa fa-lg fa-instagram"></i></a>
 <strong>GOOD LUCK</strong>
+<script src="https://use.fontawesome.com/452826394c.js"></script>
