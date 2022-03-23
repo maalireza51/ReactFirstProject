@@ -10,6 +10,9 @@
   The animations have the ability to show everything alive and</br>
   you can add it more creative features by your own styles...
 </p>
+<p>
+<img src="https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/screenshots/Screenshot1.png" width="300px"/>
+</p>
 </br></br>
 <p>Follow me on:</p>
 <p><a href="https://www.linkedin.com/in/alireza-mashayekhi-693423235/"><img src="https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/linkedin.svg" width="21px"/></a> 

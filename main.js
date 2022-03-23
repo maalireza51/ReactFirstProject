@@ -1,4 +1,8 @@
-function generateCarts(name, age) { return React.createElement('div',{class:'div-row'}, React.createElement('span', null, `name:${name}`), React.createElement('span', null, ' .... '+`age:${age}`)); }
+function generateCarts(name, age) { 
+    const content = React.createElement('div',{class:'span-row'}, React.createElement('span', null, `name:${name}`), React.createElement('span', null, ' .... '+`age:${age}`));
+    const main = React.createElement('div',{class:"main"},content);
+    return main;
+}
 const userdata = [
     {
         name: "alireza",
