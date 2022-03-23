@@ -11,8 +11,17 @@
   you can add it more creative features by your own styles...
 </p>
 </br></br>
-<p>Follow me on:</p>
+<style>
+  .social-media{
+    border-radius:10px;
+    -webkit-box-shadow: 0px 5px 25px 2px rgba(0,0,0,0.45); 
+    box-shadow: 0px 5px 25px 2px rgba(0,0,0,0.45);
+  }
+</style>
+<p>Follow me on:<span class="social-media">
 <a href="https://www.linkedin.com/in/alireza-mashayekhi-693423235/"><img src="https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/linkedin.svg" width="21px"/></a> 
 <a href="https://twitter.com/maalireza51"><img src="https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/twitter.svg" width="21px"/></a> 
 <a href="https://www.instagram.com/deka_deve/"><img src="https://raw.githubusercontent.com/maalireza51/ReactFirstProject/master/icons/instagram.svg" width="21px"/></a>
+</span></p>
+
 </br></br><strong>GOOD LUCK</strong>
